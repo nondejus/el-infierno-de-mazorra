@@ -7,6 +7,9 @@ https://en.m.wikipedia.org/wiki/G4S
 ## Heroin
 https://en.m.wikipedia.org/wiki/Heroin
 
+## Methadone
+https://en.m.wikipedia.org/wiki/Methadone
+
 ## BoumanGGZ
 https://nl.m.wikipedia.org/wiki/Bouman_GGZ
 
