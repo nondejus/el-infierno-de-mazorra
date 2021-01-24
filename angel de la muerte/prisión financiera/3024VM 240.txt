@@ -1,0 +1,21 @@
+3024VM 240
+==========
+
+2007-2015   : inschrijving in de gemeente rotterdam
+              lipsch hth
+              1966-10-29
+              BSN 158143735
+
+verhuurder  : woonbron
+              437,72
+              deelgemeente delfshaven
+              coolhaveneiland
+              willem buytewechstraat 240
+              3024VM Rotterdam
+
+uitkering   : sozawe
+              870,00
+ 
+huurtoeslag : 200,00
+              
+zorgtoeslag :  86,00
